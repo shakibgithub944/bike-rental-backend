@@ -19,12 +19,12 @@ async function main() {
 main();
 
 process.on("uncaughtException", () => {
-  console.log("❌ uncaughtException detected successfully, shutting down...");
+  console.error("uncaughtException detected successfully, shutting down...");
   process.exit(1);
 });
 
 process.on("unhandledRejection", () => {
-  console.log("❌ unhandledRejection detected successfully, shutting down...");
+  console.error("unhandledRejection detected successfully, shutting down...");
   if (server) {
     server.close(() => {
       process.exit(1);
