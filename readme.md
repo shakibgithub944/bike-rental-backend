@@ -1,17 +1,17 @@
 # Bike Rental Reservation System Backend
 
-Welcome to the backend of the Bike Rental Reservation System, a service designed to facilitate bike rentals for tourists and locals in Cox's Bazar. This application allows users to seamlessly rent bikes online, enhancing their experience in the vibrant coastal town.
+Here is the backend of the Bike Rental Reservation System, a service designed to facilitate bike rentals for tourists and locals in Cox's Bazar. This application allows users to seamlessly rent bikes online, enhancing their experience in the vibrant coastal town.
 
 ## Live URL
 
-The live URL for the application is [Bike Rental Reservation System](https://bike-rental-backend-by-mezan.vercel.app/).
+[Bike Rental Reservation System](https://bike-rental-backend-by-mezan.vercel.app/).
 
 ## Features
 
 - User Registration and Authentication
 - Bike Inventory Management
 - Rental Booking and Management
-- Secure Transaction Handling
+- Secure Transaction handle
 - Detailed User and Bike Profiles
 - Role-based Access Control (Admin/User)
 - Error Handling and Input Validation
